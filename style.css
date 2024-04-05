@@ -1,0 +1,29 @@
+footer {
+    text-align: center;
+    background-color: grey;
+    padding: 50px;
+    color: white;
+}
+header {
+    background-color: grey;
+    text-align: center;
+    padding: 50px;
+}
+h1{
+    color: white;
+}
+nav {
+    text-align: center;
+}
+body {
+    background-color: lightgrey;
+}
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
